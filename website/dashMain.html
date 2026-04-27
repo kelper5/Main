@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./dash.css">
+    <title>Kelper - Dashboard</title>
+</head>
+
+<body>
+    <header></header>
+    <main>
+        <div class="container">
+            <div class="navBar">
+                <figure>
+                    <img src="./img/LOGO.png" alt="">
+                </figure>
+                <ul>
+                    <li>Menu</li>
+                    <li class="selected"><a href="./dashMain.html">Gráficos</a></li>
+                    <li class="hover4"><a href="./dashViveiros.html">Viveiros</a></li>
+                    <li class="hover4"><a href="./dashAlerts.html">Alertas</a></li>
+                    <li class="red hover5"><a href="./login.html">LOG OUT</a></li>
+                </ul>
+            </div>
+            <div class="content">
+                <div class="greeting">
+                    <div class="greet">
+                        <p>Olá, Julia</p>
+                        <p>Bem-vindo(a) a fazenda Peixe Bom!</p>
+                    </div>
+                    <select name="" id="">
+                        <option value="">Viveiro 1</option>
+                    </select>
+                </div>
+                <div class="graphSession">
+                    <div class="legends">
+                        <div class="legend">
+                            <div class="boxGreen"></div>
+                            <p>Baixo</p>
+                        </div>
+                        <div class="legend">
+                            <div class="boxYellow"></div>
+                            <p>Médio</p>
+                        </div>
+                        <div class="legend">
+                            <div class="boxRed"></div>
+                            <p>Alto</p>
+                        </div>
+                    </div>
+                    <div class="kpi">
+                        <div class="kpiLum">
+                            <h3>Luminosidade</h3>
+                            <p>12.000 LUX</p>
+                        </div>
+                        <div class="kpiEutrofizacao">
+                            <h3>Risco de Eutrofização</h3>
+                            <p>Baixo</p>
+                        </div>
+                        <div class="kpiStatusSensores">
+                            <h3>Temperatura</h3>
+                            <p>29°C</p>
+                        </div>
+                    </div>
+                    <div class="graphics">
+                        <p>LUMINOSIDADE</p>
+                        <div class="lumGraph">
+                            <canvas id="graficoLinha"></canvas>
+                        </div>
+                        <p>TEMPERATURA</p>
+                        <div class="tempGraph">
+                            <canvas id="graficoColuna"></canvas>
+                        </div>
+                        <div class="activesGraph"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+</body>
+
+</html>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="./scriptDash.js"></script>
