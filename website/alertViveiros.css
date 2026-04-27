@@ -265,6 +265,15 @@ canvas{
     justify-content: center;
 }
 
+.yellow{
+    background-color: yellow;
+    padding: 0px 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .red{
     background-color: #ff5454cc;
     padding: 0px 20px;
