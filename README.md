@@ -19,8 +19,9 @@ O Kelper foi desenvolvido para ajudar produtores a **monitorar esses fatores em 
 * C++
 * JavaScript
 * Node.js
-* Banco de Dados (SQL)
-* HTML + CSS
+* MySQL
+* HTML
+* CSS
 
 
 ## Equipe:
