@@ -9,7 +9,7 @@ O **Kelper** é uma solução desenvolvida para monitorar **temperatura** e **lu
 
 A piscicultura é um setor em crescimento no Brasil, mas ainda enfrenta desafios relacionados à qualidade da água. O excesso de luz solar, temperatura elevada e acúmulo de nutrientes podem causar a proliferação descontrolada de algas, reduzindo o oxigênio da água e prejudicando os peixes.
 
-O Kelper foi desenvolvido para ajudar produtores a **monitorar esses fatores em tempo real** e agir antes que o problema se agrave.
+A Kelper foi desenvolvido para ajudar produtores a **monitorar esses fatores em tempo real** e agir antes que o problema se agrave.
 
 
 
