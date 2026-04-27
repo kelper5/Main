@@ -1,8 +1,8 @@
 <img width="634" height="226" alt="Image" src="https://github.com/user-attachments/assets/6ddca363-c570-46b6-942b-4f2fb415611a" />
 
-# Sobre o Kelper:
+# Sobre a Kelper:
 
-O **Kelper** é uma solução desenvolvida para monitorar **temperatura** e **luminosidade** em viveiros de piscicultura, com foco na prevenção da **eutrofização** — um dos principais problemas que afetam a produção de peixes.
+A **Kelper** é uma solução desenvolvida para monitorar **temperatura** e **luminosidade** em viveiros de piscicultura, com foco na prevenção da **eutrofização** — um dos principais problemas que afetam a produção de peixes.
 
 
 ## Sobre o problema:
