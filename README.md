@@ -16,7 +16,7 @@ O Kelper foi desenvolvido para ajudar produtores a **monitorar esses fatores em 
 ## Tecnologias utilizadas:
 
 * Arduino
-* C
+* C++
 * JavaScript
 * Node.js
 * Banco de Dados (SQL)
