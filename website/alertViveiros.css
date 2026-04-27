@@ -93,7 +93,7 @@ main{
     gap: 40px;
     /* justify-self: end; */
     /* border-radius: 20px; */
-    height: 100vh;
+    height: 100%;
 }
 
 .greeting{
